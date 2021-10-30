@@ -11,8 +11,6 @@ const increment = (arrayNumber) => {
     return incrementedArray;
 }
   
-  
-console.log(increment( [9, 2, 3] ));
 
 // increment([9, 2, 3])
 // return -> [924]
